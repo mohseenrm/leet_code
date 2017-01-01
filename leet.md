@@ -14,6 +14,8 @@ nums2 = [2]
 ```
 
 The median is 2.0
+
+
 Example 2:
 ```
 nums1 = [1, 2]
@@ -43,3 +45,5 @@ class Solution(object):
         else:
             return list(allsets)[int(size2/2)]
 ```
+
+End
